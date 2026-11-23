@@ -107,7 +107,7 @@ Print the details of the user with the highest total price from the sorted_group
 '''
 
 # Your Code Here
-highest_total_price_user = top_user = sorted_grouped[0]
+top_user = sorted_grouped[0]
 
 highest_total_price_user = {
     "name": top_user[0],
